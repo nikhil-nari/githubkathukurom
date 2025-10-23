@@ -1,0 +1,4 @@
+fn main() {
+    task_status:String = String::from("Task successfully completed");
+    println!("{task_status});
+}
